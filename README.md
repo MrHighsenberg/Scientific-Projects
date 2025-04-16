@@ -1,4 +1,4 @@
-# Overview of Scientific Projects
+# List of Scientific Projects
 Access granted upon request: MPawlik@outlook.de
 
 #### ▸ Tensor Network Renormalization of Lindbladian Dynamics
