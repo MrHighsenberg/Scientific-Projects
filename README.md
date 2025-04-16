@@ -1,4 +1,4 @@
-# List of private projects
+# List of unpublished projects
 Access granted upon request: MPawlik@outlook.de
 
 #### Tensor Network Renormalization of Lindbladian Dynamics
