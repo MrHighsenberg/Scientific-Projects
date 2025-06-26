@@ -1,6 +1,16 @@
 # List of Scientific Projects
 Access granted upon request: MPawlik@outlook.de
 
+#### ▸ XTRG Algorithm
+  Simulating the XY-Model with the Exponential Thermal Tensor Renormalization Group (XTRG) Algorithm
+
+  07/2025 | Term Coding Project | Tensor Networks Course @ Ludwig Maximilian University of Munich (LMU)
+
+#### ▸ Worm Algorithm 6-Vertex Model
+  Monte Carlo Worm Algorithm for the Square Ice Model
+
+  07/2025 | Term Coding Project | Computational Many-Body Physics Course @ Technical University of Munich (TUM)
+
 #### ▸ Tensor Network Renormalization of Lindbladian Dynamics
   Bounding Observables in Steady States of Open Quantum Systems
 
