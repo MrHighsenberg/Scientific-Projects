@@ -7,7 +7,7 @@ Access granted upon request: MPawlik@outlook.de
   07/2025 | Term Coding Project | Tensor Networks Course @ Ludwig Maximilian University of Munich (LMU)
 
 #### ▸ Worm Algorithm 6-Vertex Model
-  A Monte Carlo Markov Chain Algorithm for the Ice Model
+  A Monte Carlo Markov Chain Algorithm for the Square Ice Model
 
   07/2025 | Term Coding Project | Computational Many-Body Physics Course @ Technical University of Munich (TUM)
 
